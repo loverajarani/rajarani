@@ -1,5 +1,6 @@
 # rajendra prasad
-![logo](https://racherla.files.wordpress.com/2017/07/wp-image-320075390.jpg)(https://racherla.files.wordpress.com/2019/02/racherlarajendraprasad.jpg)
+![logo](https://racherla.files.wordpress.com/2019/02/racherlarajendraprasad.jpg)
+[url](https://racherla.files.wordpress.com/2017/07/wp-image-320075390.jpg)
 # rajarani
 ![logo](https://racherla.files.wordpress.com/2019/02/racherla.jpg)
 [url](https://gist.github.com/loverajarani/db016174bf1a9c3f95c565e98c4b450c)
