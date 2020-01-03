@@ -9,7 +9,7 @@
 ![logo](https://www.rosehosting.com/blog/wp-content/uploads/2014/05/how-to-install-and-set-up-git-on-ubuntu-14-04-lts-vps.jpg)[Git installation](https://raw.githubusercontent.com/rajadevops26/setup/master/README.md)
 
 # Jenkins
-![logo](https://www.crowdstrike.com/blog/wp-content/uploads/2018/10/Jenkins-blog-image.jpg)[Jenkins installation]()
+![logo](https://a.slack-edge.com/80588/img/services/jenkins-ci_512.png)[Jenkins installation]()
 
 # Ansible
 ![logo](https://keithtenzer.files.wordpress.com/2017/11/ansible-logo.png?w=359&h=284)[Ansible Installation]()
